@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 14 anos<br>- Estudante de Front-end  <br>- A procura de estágios <br>-  Crio sites por amor 
+- 14 anos<br>- Estudante de Back-end  <br>- A procura de estágios <br>-  Crio sites por amor 
 
 
 ## 🌐 Socials:
